@@ -1,4 +1,4 @@
-### Todo App
+## Todo App
 
 Este repositorio contiene una aplicación de control diario de tareas donde se debe poder:
 
@@ -20,7 +20,7 @@ Este repositorio contiene una aplicación de control diario de tareas donde se d
 
 - La vista por default es "lista"
 
-## Extras
+### Extras
 
 En caso de querer incoporar mas complejidad a este ejercicio se puede agregar:
 
@@ -30,7 +30,7 @@ En caso de querer incoporar mas complejidad a este ejercicio se puede agregar:
 - Login (en LS).
 - Mostrar en las tareas el nombre del autor.
 
-## Requerimientos técnicos
+### Requerimientos técnicos
 
 - Unit tests con cobertura mínima del 50%.
 - Utilizar CSS, HTML y Javascript.
@@ -38,11 +38,11 @@ En caso de querer incoporar mas complejidad a este ejercicio se puede agregar:
 - Debe ser responsive en mobile (incluyendo tablet) y desktop.
 - El producto final debe estar deployado en Vercel.
 
-## Tiempo estimado
+### Tiempo estimado
 
 - 1 mes aprox.
 
-## Proceso de reviews
+### Proceso de reviews
 
 - Cualquier persona involucrada directamente en este proyecto debe ser parte de las code reviews.
 - Los PR creados deben ser pequeños para poder analizarlos correctamente y hacer devoluciones en tiempo y forma.
