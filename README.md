@@ -49,6 +49,21 @@ En caso de querer incoporar mas complejidad a este ejercicio se puede agregar:
 
 ## Detalles técnicos
 
+### Requerimientos
+
+- Node v16 o mayor.
+- pnpm v7 o mayor (en caso de no tener instalado pnpm se puede instalar ejecutando `npm i -g pnpm`).
+
+### Cómo comenzar
+
+Abrir una terminal donde se quiere clonar el proyecto y ejecutar los siguientes comando:
+
+- `git clone https://github.com/hipperstudio/je-werk.git`.
+- `cd je-werk`.
+- `pnpm i`.
+
+### Comandos uútiles
+
 - Ejecutar `pnpm dev` para levantar el proyecto (va a utilizar el puerto 5173).
 - Ejecutar `pnpm lint` para correr eslint (eslint nos ayuda a detectar errores en el código).
 - Ejecutar `pnpm lint-fix` para correr corregir automáticamente los errores que aparezcan (no todos los errores se pueden arreglar con este comando).
