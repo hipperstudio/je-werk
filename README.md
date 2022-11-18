@@ -47,7 +47,7 @@ En caso de querer incoporar mas complejidad a este ejercicio se puede agregar:
 - Cualquier persona involucrada directamente en este proyecto debe ser parte de las code reviews.
 - Los PR creados deben ser pequeños para poder analizarlos correctamente y hacer devoluciones en tiempo y forma.
 
-### Detalles técnicos
+## Detalles técnicos
 
 - Ejecutar `pnpm dev` para levantar el proyecto (va a utilizar el puerto 5173).
 - Ejecutar `pnpm lint` para correr eslint (eslint nos ayuda a detectar errores en el código).
