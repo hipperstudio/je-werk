@@ -61,8 +61,9 @@ Abrir una terminal donde se quiere clonar el proyecto y ejecutar los siguientes 
 - `git clone https://github.com/hipperstudio/je-werk.git`.
 - `cd je-werk`.
 - `pnpm i`.
+- `pnpm dev`.
 
-### Comandos uútiles
+### Comandos útiles
 
 - Ejecutar `pnpm dev` para levantar el proyecto (va a utilizar el puerto 5173).
 - Ejecutar `pnpm lint` para correr eslint (eslint nos ayuda a detectar errores en el código).
