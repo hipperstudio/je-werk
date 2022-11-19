@@ -67,6 +67,7 @@ Abrir una terminal donde se quiere clonar el proyecto y ejecutar los siguientes 
 
 - Ejecutar `pnpm dev` para levantar el proyecto (va a utilizar el puerto 5173).
 - Ejecutar `pnpm lint` para correr eslint (eslint nos ayuda a detectar errores en el código).
-- Ejecutar `pnpm lint-fix` para correr corregir automáticamente los errores que aparezcan (no todos los errores se pueden arreglar con este comando).
-- Ejecutar `pnpm test` para correr todos los unit tests.
+- Ejecutar `pnpm lint-fix` para corregir automáticamente los errores que aparezcan (no todos los errores se pueden arreglar con este comando).
+- Ejecutar `pnpm test` para correr todos los unit tests en watch mode (escucha los cambios para no tener que correr el comando cada vez que se cambie un test).
+- Ejecutar `pnpm coverage` para correr todos los unit tests incluyendo el porcentaje de cobertura (esto no es en watch mode).
 - Ejecutar `pnpm build` para correr el build del proyecto. Esto va a generar una carpeta llamada `dist` en el root del proyecto. Lo que se encuentra en esa carpeta es lo que finalmente se utiliza a la hora de deployar el proyecto.
